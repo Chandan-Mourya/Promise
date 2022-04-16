@@ -1,0 +1,31 @@
+#formdiv{
+    margin: auto;
+    width: 40%;
+    border: 2px springgreen solid;
+    font-size: 20px;
+    
+}
+input{
+    height: 18px;
+    width: 18px;
+}
+#submit{
+    height: 30px;
+    width: 100px;
+    color: white;
+    background-color: teal;
+    border: none;
+    border-radius: 15px;
+}
+
+#container{
+    width:40%;
+    height: 400px;
+    border: 2px solid red;
+    margin: auto;
+
+}
+image{
+    height: 300px;
+    width:200px;
+}
